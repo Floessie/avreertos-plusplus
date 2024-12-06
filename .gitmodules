@@ -1,0 +1,9 @@
+[submodule "avr-libstdcpp"]
+	path = avr-libstdcpp
+	url = https://github.com/modm-io/avr-libstdcpp.git
+[submodule "frt"]
+	path = frt
+	url = https://github.com/Floessie/frt.git
+[submodule "freertos"]
+	path = freertos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
